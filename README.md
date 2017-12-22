@@ -1,3 +1,3 @@
 # Compil
 
-Compiler that transforms a extended version of PASCAL to SPIM.
+Compiler that transforms an extended version of PASCAL to SPIM.
